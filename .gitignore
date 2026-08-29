@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+gs_accounts/
+.env
+*.session
